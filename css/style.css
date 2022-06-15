@@ -1,1 +1,12 @@
+.ms_container_big{
+    padding: 30px;
+    background-color: darkgreen;
+    border-radius: 20px;
+    height: 50%;
+}
+
+.ms_border{
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+}
 
